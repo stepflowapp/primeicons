@@ -1,5 +1,12 @@
 # Changelog
 
+## [Stepflow PrimeIcons 1.0] (2020-12-11)
+
+**New Icons:**
+
+- Active
+- Progress
+
 ## [4.1.0](https://github.com/primefaces/primeicons/tree/4.1.0) (2020-11-18)
 
 [Full Changelog](https://github.com/primefaces/primeicons/compare/4.0.0...4.1.0)
@@ -14,10 +21,10 @@
 - Add "map" icon [\#253](https://github.com/primefaces/primeicons/issues/253)
 - Add "paypal" icon [\#235](https://github.com/primefaces/primeicons/issues/235)
 - Add "amazon" icon [\#234](https://github.com/primefaces/primeicons/issues/234)
-- Add "filter-slash" icon  [\#220](https://github.com/primefaces/primeicons/issues/220)
+- Add "filter-slash" icon [\#220](https://github.com/primefaces/primeicons/issues/220)
 - Add "percentage" icon [\#209](https://github.com/primefaces/primeicons/issues/209)
 - Add "wallet" icon [\#192](https://github.com/primefaces/primeicons/issues/192)
-- Add "chain link" icon  [\#190](https://github.com/primefaces/primeicons/issues/190)
+- Add "chain link" icon [\#190](https://github.com/primefaces/primeicons/issues/190)
 - Add "credit card" icon [\#187](https://github.com/primefaces/primeicons/issues/187)
 - Add "flag" icon [\#180](https://github.com/primefaces/primeicons/issues/180)
 - Add "paper-plane" icon [\#141](https://github.com/primefaces/primeicons/issues/141)
@@ -69,7 +76,7 @@
 - Add "file-excel" icon [\#181](https://github.com/primefaces/primeicons/issues/181)
 - Add "undo" icon [\#179](https://github.com/primefaces/primeicons/issues/179)
 - Add sort type icons [\#177](https://github.com/primefaces/primeicons/issues/177)
-- Add "directions" icon  [\#176](https://github.com/primefaces/primeicons/issues/176)
+- Add "directions" icon [\#176](https://github.com/primefaces/primeicons/issues/176)
 - Add "edit user" icon [\#175](https://github.com/primefaces/primeicons/issues/175)
 - Add "exclamation circle" icon [\#174](https://github.com/primefaces/primeicons/issues/174)
 - Add "sliders" icon [\#173](https://github.com/primefaces/primeicons/issues/173)
@@ -116,7 +123,7 @@
 - Add "window-maximize" icon [\#16](https://github.com/primefaces/primeicons/issues/16)
 - Add "window-minimize" icon [\#15](https://github.com/primefaces/primeicons/issues/15)
 - Add "pencil" icon [\#7](https://github.com/primefaces/primeicons/issues/7)
-- Add a  business icons pack [\#6](https://github.com/primefaces/primeicons/issues/6)
+- Add a business icons pack [\#6](https://github.com/primefaces/primeicons/issues/6)
 - Add "trash" icon [\#5](https://github.com/primefaces/primeicons/issues/5)
 - Add "cog" icon [\#3](https://github.com/primefaces/primeicons/issues/3)
 - Add "images" icon [\#133](https://github.com/primefaces/primeicons/issues/133)
@@ -126,7 +133,7 @@
 - Add "table" icon [\#114](https://github.com/primefaces/primeicons/issues/114)
 - Add "share" icon [\#112](https://github.com/primefaces/primeicons/issues/112)
 - Add "login" icon [\#110](https://github.com/primefaces/primeicons/issues/110)
-- Add "list" icon  [\#107](https://github.com/primefaces/primeicons/issues/107)
+- Add "list" icon [\#107](https://github.com/primefaces/primeicons/issues/107)
 - Add "eye" icon [\#105](https://github.com/primefaces/primeicons/issues/105)
 - Add "map-marker" icon [\#103](https://github.com/primefaces/primeicons/issues/103)
 - Add "unlock" icon [\#87](https://github.com/primefaces/primeicons/issues/87)
@@ -179,6 +186,6 @@
 **Fixed bugs:**
 
 - Shows square instead of icons [\#46](https://github.com/primefaces/primeicons/issues/46)
-- pi-minus and pi-minus-circle do not correspont  [\#23](https://github.com/primefaces/primeicons/issues/23)
+- pi-minus and pi-minus-circle do not correspont [\#23](https://github.com/primefaces/primeicons/issues/23)
 - Demo is Not working on chrome & firefox \(not tested on rest of browsers\) [\#10](https://github.com/primefaces/primeicons/issues/10)
 - Fix readonly values of old icons [\#54](https://github.com/primefaces/primeicons/issues/54)
