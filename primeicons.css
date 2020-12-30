@@ -60,6 +60,15 @@
   }
 }
 
+.pi-small-text:before {
+  content: "\e9cd";
+}
+.pi-large-text:before {
+  content: "\e9ce";
+}
+.pi-drag:before {
+  content: "\e9cf";
+}
 .pi-active:before {
   content: "\e9cb";
 }
