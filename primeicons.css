@@ -60,6 +60,9 @@
   }
 }
 
+.pi-embed:before {
+  content: "\e9d0";
+}
 .pi-small-text:before {
   content: "\e9cd";
 }
